@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 
 
 ## Bom dia, boa tarde, boa noite, me chamo Gabriel Niziolek, seja bem vindo ao meu Github!
-<div align="center">
+<div align="center" white-space="nowrap">
   <a href="https://github.com/rafaballerini">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ganiziolek&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ganiziolek&layout=compact&langs_count=7&theme=dracula"/>
